@@ -1,0 +1,12 @@
+The OV5640 and IMX219 are both the Raspberry Pi Camera Modules. The IMX219 is a 
+little more powerful and current, so it was selected. It is also more expensive
+at ~$25 instead of ~$15. Both of these options use 1/4" optics, which is
+hopefully small enough. They seem to be able to be detached from the ~1X1" PCB
+they are mounted on; if this is not the case this could be a problem. The
+PCB does have components mounted on it, which would need to be reverse engineered
+in the complete solution. However it is unlikely they are anything more than 
+just a power supply.
+
+If smaller options than this are needed, the OV2722 and OV2685 can be used. The
+OV2722 is available on Alibaba but potentially not in single quantity orders.
+The OV2685 is available on a ribbon cable from Leopard Imaging.

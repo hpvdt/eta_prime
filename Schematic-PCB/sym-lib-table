@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name EtaPrimeDigitalVision-rescue)(type Legacy)(uri ${KIPRJMOD}/EtaPrimeDigitalVision-rescue.lib)(options "")(descr ""))
+  (lib (name EtaPrimeVision)(type Legacy)(uri ${KIPRJMOD}/EtaPrimeVision.lib)(options "")(descr ""))
+  (lib (name EtaPrimeVision-cache)(type Legacy)(uri /media/marc/546003046002ED14/Dropbox/jutras.marc@gmail.com/EtaPrimeVision/EtaPrimeVision-cache.lib)(options "")(descr ""))
+)
